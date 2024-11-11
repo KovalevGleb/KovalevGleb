@@ -1,8 +1,5 @@
 ## Привет, я Глеб Ковалев  👋
 
-<!--
-**KovalevGleb/KovalevGleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Я аналитик данных:
 
 - 🔭 В настоящее время работаю в РСХБ-Интех
